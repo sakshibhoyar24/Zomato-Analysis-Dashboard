@@ -104,4 +104,4 @@ Interact with filters and visuals
 
 ![Zomato Analysis Dashboard](https://github.com/sakshibhoyar24/Zomato-Analysis-Dashboard/blob/main/Power%20BI.png)
 
-![Zomato Analysis Dashboard](https://github.com/sakshibhoyar24/Zomato-Analysis-Dashboard/blob/main/Excel.png)
+![Zomato Analysis Dashboard](https://github.com/sakshibhoyar24/Zomato-Analysis-Dashboard/blob/main/Tableau.png)

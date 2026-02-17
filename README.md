@@ -99,3 +99,6 @@ Interact with filters and visuals
 ✔ Portfolio project for data analysts
 
 🖼️ Dashboard Preview
+
+![Zomato Analysis Dashboard](Power BI.png)
+

@@ -100,6 +100,8 @@ Interact with filters and visuals
 
 🖼️ Dashboard Preview
 
+![Zomato Analysis Dashboard](https://github.com/sakshibhoyar24/Zomato-Analysis-Dashboard/blob/main/Excel.png)
+
 ![Zomato Analysis Dashboard](https://github.com/sakshibhoyar24/Zomato-Analysis-Dashboard/blob/main/Power%20BI.png)
 
-![Zomato Analysis Dashboard]
+![Zomato Analysis Dashboard](https://github.com/sakshibhoyar24/Zomato-Analysis-Dashboard/blob/main/Excel.png)

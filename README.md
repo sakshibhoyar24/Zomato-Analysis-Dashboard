@@ -98,3 +98,4 @@ Interact with filters and visuals
 
 ✔ Portfolio project for data analysts
 
+🖼️ Dashboard Preview
